@@ -1,2 +1,3 @@
-# github-actions-playground
+# GitHub Actions Playground
+
 Playground for testing out GitHub Actions
